@@ -60,7 +60,7 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 
 #### AlumneFila2 PC3:
-
+Isaac, he modificat el readme y el java per a que aparega el meu nom dient Felic any.
 
 #### AlumneFila2 PC4:
 
